@@ -8,3 +8,4 @@ C:\temp\Projetos\Project-Test\obj\Debug\netcoreapp2.1\Project-Test.AssemblyInfoI
 C:\temp\Projetos\Project-Test\obj\Debug\netcoreapp2.1\Project-Test.AssemblyInfo.cs
 C:\temp\Projetos\Project-Test\obj\Debug\netcoreapp2.1\Project-Test.dll
 C:\temp\Projetos\Project-Test\obj\Debug\netcoreapp2.1\Project-Test.pdb
+C:\temp\Projetos\Project-Test\obj\Debug\netcoreapp2.1\Project-Test.csprojAssemblyReference.cache
